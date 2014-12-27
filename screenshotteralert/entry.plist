@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = ScreenShotterAlert;
+	cell = PSLinkCell;
+	detail = ScreenShotterAlertListController;
+	icon = ScreenShotterAlert.png;
+	isController = 1;
+	label = ScreenShotterAlert;
+    };
+}
