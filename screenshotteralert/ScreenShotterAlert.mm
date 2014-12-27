@@ -14,7 +14,7 @@
 
 -(void)credits {
     UIAlertView *credits = [[UIAlertView alloc] initWithTitle:@"Credits"
-                                                      message:@"UIAlertViewBlocks by Ryan Maxwell"
+                                                      message:@"UIAlertViewBlocks by Ryan Maxwell, hooking by Adithya Suresh"
                                                      delegate:nil
                                             cancelButtonTitle:@"OK"
                                             otherButtonTitles:nil];
