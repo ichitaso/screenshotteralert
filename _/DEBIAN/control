@@ -1,0 +1,10 @@
+Package: com.d4rkh0rse.screenshotterlalert
+Name: ScreenShotterAlert
+Depends: mobilesubstrate, firmware (>=8.0)
+Architecture: iphoneos-arm
+Description: gives an option to save screenshot
+Maintainer: d4rkh0rse
+Author: d4rkh0rse
+Section: Tweaks
+Version: 1.0-3
+Installed-Size: 72
